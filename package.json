@@ -7,7 +7,11 @@
   "author": "Adam Hubbell <abhubbell@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
-    "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "express": "^4.13.4",
+    "socket.io": "~0.9.14",
+    "jsonwebtoken": "^5.7.0",
+    "body-parser": "^1.15.0",
+    "mongoose": "^4.4.5",
+    "morgan": "^1.7.0"
   }
 }
